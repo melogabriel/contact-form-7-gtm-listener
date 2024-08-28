@@ -67,6 +67,6 @@ The data pushed to the `dataLayer` will look like this:
 Feel free to submit issues or pull requests if you have any improvements or bug fixes.
 
 ## Acknowledgments
-Contact Form 7: For providing a flexible and powerful form plugin for WordPress.
-Google Tag Manager: For enabling easy and effective tag management.
+- Contact Form 7: For providing a flexible and powerful form plugin for WordPress.
+- Google Tag Manager: For enabling easy and effective tag management.
 
