@@ -62,6 +62,9 @@ The data pushed to the `dataLayer` will look like this:
     }
 }
 ```
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contributing
 Feel free to submit issues or pull requests if you have any improvements or bug fixes.
