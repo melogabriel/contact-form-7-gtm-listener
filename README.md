@@ -70,6 +70,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 Feel free to submit issues or pull requests if you have any improvements or bug fixes.
 
 ## Acknowledgments
-- Contact Form 7: For providing a flexible and powerful form plugin for WordPress.
-- Google Tag Manager: For enabling easy and effective tag management.
+- Contact Form 7: For providing a flexible and powerful form plugin for WordPress. https://wordpress.org/plugins/contact-form-7/ 
+- Google Tag Manager: For enabling easy and effective tag management. https://tagmanager.google.com
 
